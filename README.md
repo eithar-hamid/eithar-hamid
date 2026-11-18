@@ -14,6 +14,6 @@ I build Java and Spring Boot systems where losing or duplicating a record costs 
 - Architected and built a five-service digital wallet platform as its sole engineer
 - Built a GSMA TAP3 roaming settlement file generator (ASN.1 BER) in Java
 
-**Open to:** backend and platform roles in the UAE, and remote contract work.
+**Open to:** backend and platform roles in the UAE, KSA, and remote contract work.
 
 📫 Reach me on [LinkedIn](https://linkedin.com/in/eithar-hamid)
